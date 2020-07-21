@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tjpld.wgsfinance</string>
+				<string>com.tjpld.shihuaoauni</string>
 				<key>bundle-version</key>
-				<string>1.4</string>
+				<string>200</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
